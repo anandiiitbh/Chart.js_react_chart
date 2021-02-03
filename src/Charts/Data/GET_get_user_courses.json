@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "score": 1.7,
+      "avg_time": 47.2,
+      "title": "Class 9 Mathematics",
+      "id": "90893207-e212-4524-b03c-64a86687d24f"
+    },
+    {
+      "score": 1.24,
+      "avg_time": 46.4,
+      "title": "Class 10 Mathematics",
+      "id": "79e7e522-a4f1-40f6-8479-725f5ab5087f"
+    },
+    {
+      "score": 1.07,
+      "avg_time": 67.0,
+      "title": "Class 9 Chemistry",
+      "id": "aa0d1ad1-3cb7-4676-b018-8f430a765622"
+    }
+  ]
+}

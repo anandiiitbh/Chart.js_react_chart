@@ -1,0 +1,162 @@
+{
+  "2020-11-30": [
+    {
+      "score": 1.26,
+      "avg_time": 42.73,
+      "title": "Class 9 Mathematics",
+      "id": "90893207-e212-4524-b03c-64a86687d24f"
+    },
+    {
+      "score": 2.1,
+      "avg_time": 37.0,
+      "title": "Class 10 Mathematics",
+      "id": "79e7e522-a4f1-40f6-8479-725f5ab5087f"
+    },
+    {
+      "score": 1.63,
+      "avg_time": 38.0,
+      "title": "Class 9 Chemistry",
+      "id": "aa0d1ad1-3cb7-4676-b018-8f430a765622"
+    }
+  ],
+  "2020-12-07": [
+    {
+      "score": 1.47,
+      "avg_time": 58.73,
+      "title": "Class 9 Mathematics",
+      "id": "90893207-e212-4524-b03c-64a86687d24f"
+    },
+    {
+      "score": 1.58,
+      "avg_time": 33.1,
+      "title": "Class 10 Mathematics",
+      "id": "79e7e522-a4f1-40f6-8479-725f5ab5087f"
+    },
+    {
+      "score": 1.1,
+      "avg_time": 67.75,
+      "title": "Class 9 Chemistry",
+      "id": "aa0d1ad1-3cb7-4676-b018-8f430a765622"
+    }
+  ],
+  "2020-12-14": [
+    {
+      "score": 1.74,
+      "avg_time": 55.33,
+      "title": "Class 9 Mathematics",
+      "id": "90893207-e212-4524-b03c-64a86687d24f"
+    },
+    {
+      "score": 1.75,
+      "avg_time": 30.4,
+      "title": "Class 10 Mathematics",
+      "id": "79e7e522-a4f1-40f6-8479-725f5ab5087f"
+    },
+    {
+      "score": 1.28,
+      "avg_time": 52.5,
+      "title": "Class 9 Chemistry",
+      "id": "aa0d1ad1-3cb7-4676-b018-8f430a765622"
+    }
+  ],
+  "2020-12-21": [
+    {
+      "score": 1.26,
+      "avg_time": 47.33,
+      "title": "Class 9 Mathematics",
+      "id": "90893207-e212-4524-b03c-64a86687d24f"
+    },
+    {
+      "score": 1.87,
+      "avg_time": 43.9,
+      "title": "Class 10 Mathematics",
+      "id": "79e7e522-a4f1-40f6-8479-725f5ab5087f"
+    },
+    {
+      "score": 1.92,
+      "avg_time": 51.25,
+      "title": "Class 9 Chemistry",
+      "id": "aa0d1ad1-3cb7-4676-b018-8f430a765622"
+    }
+  ],
+  "2020-12-28": [
+    {
+      "score": 1.42,
+      "avg_time": 62.4,
+      "title": "Class 9 Mathematics",
+      "id": "90893207-e212-4524-b03c-64a86687d24f"
+    },
+    {
+      "score": 1.61,
+      "avg_time": 38.9,
+      "title": "Class 10 Mathematics",
+      "id": "79e7e522-a4f1-40f6-8479-725f5ab5087f"
+    },
+    {
+      "score": 2.02,
+      "avg_time": 50.25,
+      "title": "Class 9 Chemistry",
+      "id": "aa0d1ad1-3cb7-4676-b018-8f430a765622"
+    }
+  ],
+  "2021-01-04": [
+    {
+      "score": 1.62,
+      "avg_time": 45.47,
+      "title": "Class 9 Mathematics",
+      "id": "90893207-e212-4524-b03c-64a86687d24f"
+    },
+    {
+      "score": 1.42,
+      "avg_time": 50.6,
+      "title": "Class 10 Mathematics",
+      "id": "79e7e522-a4f1-40f6-8479-725f5ab5087f"
+    },
+    {
+      "score": 0.87,
+      "avg_time": 55.75,
+      "title": "Class 9 Chemistry",
+      "id": "aa0d1ad1-3cb7-4676-b018-8f430a765622"
+    }
+  ],
+  "2021-01-11": [
+    {
+      "score": 0.99,
+      "avg_time": 55.27,
+      "title": "Class 9 Mathematics",
+      "id": "90893207-e212-4524-b03c-64a86687d24f"
+    },
+    {
+      "score": 1.45,
+      "avg_time": 52.5,
+      "title": "Class 10 Mathematics",
+      "id": "79e7e522-a4f1-40f6-8479-725f5ab5087f"
+    },
+    {
+      "score": 2.16,
+      "avg_time": 37.75,
+      "title": "Class 9 Chemistry",
+      "id": "aa0d1ad1-3cb7-4676-b018-8f430a765622"
+    }
+  ],
+  "2021-01-18": [
+    {
+      "score": 1.7,
+      "avg_time": 47.2,
+      "title": "Class 9 Mathematics",
+      "id": "90893207-e212-4524-b03c-64a86687d24f"
+    },
+    {
+      "score": 1.24,
+      "avg_time": 46.4,
+      "title": "Class 10 Mathematics",
+      "id": "79e7e522-a4f1-40f6-8479-725f5ab5087f"
+    },
+    {
+      "score": 1.07,
+      "avg_time": 67.0,
+      "title": "Class 9 Chemistry",
+      "id": "aa0d1ad1-3cb7-4676-b018-8f430a765622"
+    }
+  ]
+}

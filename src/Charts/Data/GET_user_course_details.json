@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "score": 0.53,
+      "avg_time": 30,
+      "title": "Areas of Parallelogram and Triangles",
+      "id": "158cdd62-6e63-47f2-831b-cb1555027e07"
+    },
+    {
+      "score": 2.84,
+      "avg_time": 26,
+      "title": "Heron's Formula",
+      "id": "1d40a721-bdaf-49c7-a3be-d4b6837e0a0f"
+    },
+    {
+      "score": 2.21,
+      "avg_time": 27,
+      "title": "Number System",
+      "id": "27f3ea01-8197-417b-851d-9f4635827e52"
+    },
+    {
+      "score": 2.01,
+      "avg_time": 20,
+      "title": "Coordinate Geometry",
+      "id": "3804d420-3eb6-40c9-9039-46dee4dc74d7"
+    },
+    {
+      "score": 1.72,
+      "avg_time": 30,
+      "title": "Circles",
+      "id": "4dd7de8c-f521-4d3e-bbef-e2b5cb9179c5"
+    },
+    {
+      "score": 2.85,
+      "avg_time": 58,
+      "title": "Real Numbers",
+      "id": "62f25329-7828-4798-b117-562633b16e77"
+    },
+    {
+      "score": 0.08,
+      "avg_time": 26,
+      "title": "Linear Equations in Two Variables",
+      "id": "79223fea-28ee-4d3a-9e2b-5999a5cca45e"
+    },
+    {
+      "score": 2.3,
+      "avg_time": 60,
+      "title": "Lines and Angles Set 1",
+      "id": "7da30aa9-2182-4a07-ad6d-f3c27846cc4c"
+    },
+    {
+      "score": 0.74,
+      "avg_time": 40,
+      "title": "SURFACE AREAS AND VOLUMES",
+      "id": "89b4ba31-e33a-4832-89ce-e1263b1bb370"
+    },
+    {
+      "score": 1.01,
+      "avg_time": 28,
+      "title": "Constructions",
+      "id": "93eacddb-8e21-453d-9977-fa67a699b2a7"
+    },
+    {
+      "score": 2.03,
+      "avg_time": 29,
+      "title": "Polynomials",
+      "id": "a1ff9ead-d75e-43ec-b38e-0394783be292"
+    },
+    {
+      "score": 1.27,
+      "avg_time": 96,
+      "title": "PROBABILITY",
+      "id": "accd4c63-9905-4917-9738-9d0986472d61"
+    },
+    {
+      "score": 2.17,
+      "avg_time": 93,
+      "title": "Quadrilaterals",
+      "id": "b68f7c92-6850-4474-ba9f-9ed4a5d8b2b7"
+    },
+    {
+      "score": 1.03,
+      "avg_time": 62,
+      "title": "STATISTICS",
+      "id": "e5e90dd7-435c-497f-835d-015acf9a9d2b"
+    },
+    {
+      "score": 2.72,
+      "avg_time": 83,
+      "title": "Triangles",
+      "id": "f1992d8e-664c-4732-8318-8d0493671881"
+    }
+  ]
+}
